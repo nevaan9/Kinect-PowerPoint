@@ -1,0 +1,88 @@
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\bin\Debug\bodySkeleton.exe.config
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\bin\Debug\bodySkeleton.exe
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\bin\Debug\bodySkeleton.pdb
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\bin\Debug\Microsoft.Kinect.dll
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\bin\Debug\Microsoft.Kinect.xml
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.csprojResolveAssemblyReference.cache
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\MainWindow.g.cs
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\App.g.cs
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.cache
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.lref
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\MainWindow.baml
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.g.resources
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.Properties.Resources.resources
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.csproj.GenerateResource.Cache
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.exe
+\\MYSLU\nmpere15\slulabs\desktop\HackKinect\bodySkeleton\bodySkeleton\obj\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\Database\KinectSwipe.gbd
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\bodySkeleton.exe.config
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\bodySkeleton.exe
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.csprojResolveAssemblyReference.cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\MainWindow.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\App.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton_Content.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.lref
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\MainWindow.baml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.g.resources
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.Properties.Resources.resources
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.csproj.GenerateResource.Cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.exe
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Copy\bodySkeleton\obj\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Database\KinectSwipe.gbd
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.exe.config
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.exe
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csprojResolveAssemblyReference.cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\MainWindow.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\App.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_Content.g.cs
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.lref
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\MainWindow.baml
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.g.resources
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.Properties.Resources.resources
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csproj.GenerateResource.Cache
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.exe
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Pointing\PointSolution.gbd
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\KinectMouseController.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nmpere15\OneDrive - St. Lawrence University\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csproj.bodySkeleton.exe.config
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Database\KinectSwipe.gbd
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Pointing\PointSolution.gbd
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.exe.config
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.exe
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\bodySkeleton.pdb
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.dll
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.xml
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csprojResolveAssemblyReference.cache
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csproj.bodySkeleton.exe.config
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\MainWindow.g.cs
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\App.g.cs
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_Content.g.cs
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.cache
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton_MarkupCompile.lref
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\MainWindow.baml
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.g.resources
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.Properties.Resources.resources
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csproj.GenerateResource.Cache
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.csproj.CoreCompileInputs.cache
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.exe
+C:\Users\nmpere15\Desktop\SLU Fellow\HackKinect\bodySkeleton - Detected ML Gestures\bodySkeleton\obj\Debug\bodySkeleton.pdb
